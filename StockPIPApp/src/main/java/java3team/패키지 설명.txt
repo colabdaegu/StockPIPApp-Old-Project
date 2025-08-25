@@ -33,6 +33,7 @@
                                 * API 응답으로 받는 JSON 데이터를 자바 객체로 매핑하기 위한 데이터 모델 클래스들(예: `StockQuote`, `CompanyProfile`)을 포함합니다.
                         * `FinnhubApiClient.java`
                             * Finnhub API와의 통신을 전담하는 클래스입니다.
+
                     * `service/`
                         * 애플리케이션의 핵심 비즈니스 로직 및 데이터 처리 기능을 구현하는 서비스 클래스들을 모아두는 패키지입니다.
                         * `StockService.java`
